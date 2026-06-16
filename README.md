@@ -6,7 +6,7 @@ The project was developed as part of a university assignment and served as my fi
 
 ## Features
 
-* VGA video output
+* VGA video output (640x480, 60Hz)
 * Playable Tetris implementation
 * Custom graphics rendering in VHDL
 * Score, level, and timer display
