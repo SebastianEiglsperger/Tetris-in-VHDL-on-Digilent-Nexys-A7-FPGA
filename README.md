@@ -4,7 +4,7 @@ This project is a simple implementation of the classic Tetris game written in VH
 
 The project was developed as part of a university assignment and served as my first larger FPGA/VHDL project. The main goal was to learn digital design, hardware description languages, FPGA development workflows, and VGA graphics generation.
 
-<img width="723" height="400" alt="Tetris_Done" src="https://github.com/user-attachments/assets/c5bd813c-733b-4954-a231-d00a75ab09c0" />
+<img width="8160" height="3768" alt="20260623_133131" src="https://github.com/user-attachments/assets/28c67cc1-1e96-463c-8a81-412b19dab9c2" />
 <img width="881" height="400" alt="Tetris_Controller" src="https://github.com/user-attachments/assets/6afcdc48-466a-4f4f-b482-eca15e732485" />
 
 
